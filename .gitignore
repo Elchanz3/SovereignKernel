@@ -120,3 +120,6 @@ build.log
 *.img
 *.img-zImage
 arch/arm64/boot/dtb/
+out/
+AnyKernel3/zImage
+*.zip
